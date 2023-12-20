@@ -13,6 +13,7 @@
 		479F5A212B30713300D85F77 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 479F5A1F2B30713300D85F77 /* Main.storyboard */; };
 		479F5A232B30713700D85F77 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 479F5A222B30713700D85F77 /* Assets.xcassets */; };
 		479F5A262B30713700D85F77 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 479F5A242B30713700D85F77 /* LaunchScreen.storyboard */; };
+		479F5A2E2B30799200D85F77 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 479F5A2D2B30799200D85F77 /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		479F5A222B30713700D85F77 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		479F5A252B30713700D85F77 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		479F5A272B30713700D85F77 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		479F5A2D2B30799200D85F77 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				479F5A1F2B30713300D85F77 /* Main.storyboard */,
 				479F5A222B30713700D85F77 /* Assets.xcassets */,
 				479F5A242B30713700D85F77 /* LaunchScreen.storyboard */,
+				479F5A2D2B30799200D85F77 /* start.txt */,
 				479F5A272B30713700D85F77 /* Info.plist */,
 			);
 			path = Project5;
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				479F5A262B30713700D85F77 /* LaunchScreen.storyboard in Resources */,
+				479F5A2E2B30799200D85F77 /* start.txt in Resources */,
 				479F5A232B30713700D85F77 /* Assets.xcassets in Resources */,
 				479F5A212B30713300D85F77 /* Main.storyboard in Resources */,
 			);
